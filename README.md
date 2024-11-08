@@ -100,6 +100,13 @@ Saat program dimulai, pengguna akan dihadapkan pada Menu Utama dengan beberapa o
 
    ![image](https://github.com/user-attachments/assets/4b8921bd-0f8c-4c3b-b91b-b41d29faa31f)
 
+### 4. Menu Admin
+   Jika pengguna login menggunakan username admin
+
+   ![image](https://github.com/user-attachments/assets/68449ccf-73a1-4b9b-99b4-99966696ad11)
+
+   ![image](https://github.com/user-attachments/assets/c4bf74d9-3d68-4db4-ba29-2e100e218c34)
+
 
 
 
