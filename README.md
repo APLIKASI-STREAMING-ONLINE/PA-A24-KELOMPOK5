@@ -107,6 +107,52 @@ Saat program dimulai, pengguna akan dihadapkan pada Menu Utama dengan beberapa o
 
    ![image](https://github.com/user-attachments/assets/c4bf74d9-3d68-4db4-ba29-2e100e218c34)
 
+#### 4.1 Tambah Film
+   Jika admin memilih 1 atau ingin menambahkan film, maka admin harus memasukkan judul film, tahun rilis, Kategori film, Sutradara, Durasi, Kategori usia, dan pemeran utama.
+
+   ![image](https://github.com/user-attachments/assets/dc918864-1627-41e5-8ffe-357264d15733)
+
+#### 4.2 Hapus Film
+   Jika admin ingin menghapus film, maka admin harus memasukkan nomor film pada daftar film
+
+   ![image](https://github.com/user-attachments/assets/00f270bf-75d9-46e6-b762-f841fb60d064)
+
+#### 4.3 Update Film
+   Jika admin ingin mengupdate film, maka admin harus meningputkan daftar film dan mengudate bagian yang ingin di update, serta mengosongkan yang tidak ingin di update
+
+   ![image](https://github.com/user-attachments/assets/96b6369e-ed43-479d-b401-520b8fbc62bf)
+
+#### 4.4 Lihat Semua Film
+   Jika admin ingin melihat seluruh film yang masih tersedia atau memilih opsi 4
+
+   ![image](https://github.com/user-attachments/assets/98455177-8ca6-4bca-afe6-07c7d31217ae)
+
+   tampilan lihat seluruh film setelah admin menghapus salah satu daftar film
+
+   ![image](https://github.com/user-attachments/assets/e90d02f2-fcd0-42ff-8ca3-52e742e2b560)
+
+#### 4.5 Exit
+
+   Jika admin ingin log out
+
+   ![image](https://github.com/user-attachments/assets/ef663ec4-eb28-4245-88db-602f006399e5)
+
+   ![image](https://github.com/user-attachments/assets/e8b104bb-f94d-4026-ba91-2d3d5af480f6)
+
+### 5. Exit
+
+   Jika admin atau pengguna ingin keluar dari program maka admin atau pengguna harus memilih opsi 3 pada menu utama.
+
+   ![image](https://github.com/user-attachments/assets/a1bacba5-e13f-47ea-9567-69dca31ac629)
+
+
+   
+
+
+   
+
+
+
 
 
 
